@@ -21,7 +21,7 @@
 </div>
 
 ### ❤️ Visitors count
-*counter from June 6, 2023*
+*counter from August 22, 2024*
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/myrtilleknockaert/count.svg?"  />
