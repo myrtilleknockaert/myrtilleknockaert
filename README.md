@@ -18,4 +18,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myrtilleknockaert&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### ❤️ Visitors count
+*counter from June 6, 2023*
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/myrtilleknockaert/count.svg?"  />
+</div>
+
 </div>
