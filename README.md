@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 📁 GitHub Stats
+## 📊 Parlons chiffres GitHub
 
 <div align="center">
   
