@@ -25,5 +25,5 @@
 ## 📩 Me contacter 
 
 ### 📫 Me contacter :
-- [LinkedIn]([lien vers ton profil LinkedIn](https://www.linkedin.com/in/myrtille-knockaert-7b72871b5/))
+- [LinkedIn](https://www.linkedin.com/in/myrtille-knockaert-7b72871b5/)
 - [Email](mailto:mmyrtille.knockaert@gmail.com)
