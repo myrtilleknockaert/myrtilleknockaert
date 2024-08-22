@@ -24,6 +24,5 @@
 
 ## 📩 Me contacter 
 
-### 📫 Me contacter :
 - [LinkedIn](https://www.linkedin.com/in/myrtille-knockaert-7b72871b5/)
 - [Email](mailto:mmyrtille.knockaert@gmail.com)
